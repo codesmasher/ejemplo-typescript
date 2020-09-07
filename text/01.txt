@@ -1,0 +1,5 @@
+Instalacion de typescript como dependencia del proyecto:
+
+1.- Usar el comando, para crear un proyecto de nodejs: npm init
+2.- Posteriormente usar el comando: npm i --save-dev typescript
+3.- Para ejecutar el compilador de typescript usar el comando: node_modules/.bin/tsc
