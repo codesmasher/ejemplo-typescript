@@ -12,3 +12,20 @@ let enteroLargo: number = 7_812_341_121
 
 /* string */
 let cadenas: string = "ksndskdnlsmñdfmlksandfkdsn"
+
+// Otros tipos de datos
+/* null */
+let nada: null = null
+
+/* undefined */
+let indefinido: undefined = undefined
+
+/* any */
+let cualquiera: any
+cualquiera = "una-cadena"
+cualquiera = false
+
+/* void */
+function saludar(): void {
+    console.log("hola");
+}
