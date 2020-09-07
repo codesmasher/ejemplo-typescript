@@ -1,0 +1,4 @@
+Primeros ejemplos de TypeScript
+
+El TypeScript permite definir tipos de datos a las funciones para que el compilador pueda identificar posibles errores
+de ejecución.
