@@ -1,0 +1,10 @@
+Compilacion de un archivo typescript
+
+1.- Escribe el comando: node_modules/.bin/tsc <archivo>
+2.- El compilador traduce el archivo orginal en uno de javascript.
+
+Compilacion desde npm
+
+1.- Agregar el parametro "build", con el valor "tsc <archivo>" en el objeto "script" de package.json.
+2.- Escribir el comando: npm run build
+3.- NPM ejecutara el compilador y traducira el archivo.
