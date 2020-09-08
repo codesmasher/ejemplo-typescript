@@ -6,3 +6,8 @@ propiedades.
 Con private se limita el ambito de las propiedades para que solo puedan ser accedidos desde la
 misma clase.
 
+Con readonly las propiedades no pueden ser alteradas despúes de asignarles su valor en el
+constructor.
+
+Se puede combinar ambas opciones para por ejemplo evitar que dentro de la misma clase sea
+alterado el valor de las propiedades.
