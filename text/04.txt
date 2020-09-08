@@ -1,0 +1,8 @@
+Clases
+
+TypeScript agrega modificadores a las clases para reducir la visibilidade de los métodos y las
+propiedades.
+
+Con private se limita el ambito de las propiedades para que solo puedan ser accedidos desde la
+misma clase.
+
