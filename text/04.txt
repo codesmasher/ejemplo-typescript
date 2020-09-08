@@ -11,3 +11,11 @@ constructor.
 
 Se puede combinar ambas opciones para por ejemplo evitar que dentro de la misma clase sea
 alterado el valor de las propiedades.
+
+Getters / Setters
+
+Los getters y setters permite mediante a funciones definir propiedades virtuales que pueden ser
+accedidas desde la instancia del objeto.
+
+Una convención de código al momento de definir una propiedad virtual es utilizar un guión bajo 
+antes del nombre de la variable.
