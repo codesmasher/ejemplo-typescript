@@ -19,3 +19,15 @@ accedidas desde la instancia del objeto.
 
 Una convención de código al momento de definir una propiedad virtual es utilizar un guión bajo 
 antes del nombre de la variable.
+
+Herencia
+
+Las clases pueden heredar las propiedades y los metodos de otra clase, esto se hace mediante
+la palabra reservada extends durante la declaración de la clase.
+
+Si un metodo cambia en la clase hijo esto se conoce como sobre escribir el metodo, es posible
+llamar al meotodo padre con ayuda de la palabra super.
+
+La herencia incluye el constructor padre, es posible alterar el constructor en los desendientes
+pero es necesario que se ejecute el constructor del padre mediante el metodo super().
+
