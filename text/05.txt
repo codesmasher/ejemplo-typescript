@@ -8,3 +8,8 @@ nuevo tipo seguido de la asignación del tipo regular, por ejemplo:
 
 type objetoFijo = {id: number, nombre: string}
 
+Uniones
+
+Permite definir dos o más tipos de datos para una variable, esto se logra usando el caracter |
+Se puede ocupar al declarar una variable o en una funcion en su regreso.
+
