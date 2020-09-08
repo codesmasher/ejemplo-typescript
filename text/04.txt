@@ -12,6 +12,10 @@ constructor.
 Se puede combinar ambas opciones para por ejemplo evitar que dentro de la misma clase sea
 alterado el valor de las propiedades.
 
+El atributo protected funciona de forma similar a private evitando acceder a las propiedades o
+metodos de la clase desde una instancia. Pero permite hacerlo desde una clase desendiente de la
+clase padre.
+
 Getters / Setters
 
 Los getters y setters permite mediante a funciones definir propiedades virtuales que pueden ser
@@ -31,3 +35,7 @@ llamar al meotodo padre con ayuda de la palabra super.
 La herencia incluye el constructor padre, es posible alterar el constructor en los desendientes
 pero es necesario que se ejecute el constructor del padre mediante el metodo super().
 
+Clases abstractas
+
+Son aquellas que los metodos no estan completamente implementados y que no pueden directamente
+instanciados a menos que sea a traves de las clases desendientes.
