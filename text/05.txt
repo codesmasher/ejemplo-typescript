@@ -1,0 +1,10 @@
+Alias
+
+Los alias sirven para definir tipos exclusivos del usuario a través de los tipos primitivos o
+los tipos no primitivos del lenguaje.
+
+Para definir un alias es neceario usar la palabra reservada type a continuación el nombre del
+nuevo tipo seguido de la asignación del tipo regular, por ejemplo:
+
+type objetoFijo = {id: number, nombre: string}
+
