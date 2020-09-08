@@ -13,3 +13,7 @@ Uniones
 Permite definir dos o más tipos de datos para una variable, esto se logra usando el caracter |
 Se puede ocupar al declarar una variable o en una funcion en su regreso.
 
+Uniones discriminantes
+
+Permite a través de un campo común identificar dos o más tipos definidos por el usuario, al ser
+asignados a una variable es posible evaluar por dicho campo.
