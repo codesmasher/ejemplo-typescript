@@ -3,3 +3,7 @@ Interfaces
 Las Interfaces en principio son muy similares a los typealias pero debido a que las Interfaces
 tienen mas tiempo de haber sido implementadas muchos desarrollos antiguos aun cuentan con este
 tipo de estructura de datos.
+
+Las interfaces pueden declaraar metodos sin implementar que posteriormente seran completadas
+por el desarrollador cuando se haga uso de un objeto de tipo interface.
+
