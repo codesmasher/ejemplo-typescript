@@ -7,3 +7,7 @@ tipo de estructura de datos.
 Las interfaces pueden declaraar metodos sin implementar que posteriormente seran completadas
 por el desarrollador cuando se haga uso de un objeto de tipo interface.
 
+Las Clases e interfaces
+
+Es posible implementar una interfaz dentro de una clase, pero al hacerlo es neceario que la
+clase implemente las propiedades y los metodos de la interfaz.
